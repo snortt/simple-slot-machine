@@ -1,0 +1,10 @@
+O jogador faz uma aposta, dentro de sua quantia de dinheiro.
+O jogo deve verificar se a aposta está dentro do limite de dinheiro do jogador.
+Uma vez feita a aposta, o jogo deve sortear 3 números aleatórios entre 2 e 7, incluindo.
+
+Condições:
+    * Se todos os 3 números forem iguais a 7 -> jogador ganha 10x aposta;
+    * Se todos os 3 números forem iguais, mas não iguais a 7 -> jogador ganha 5x aposta;
+    * Se 2 dos 3 forem iguais -> jogador ganha 3x aposta;
+    * Nos demais casos -> jogador perde a aposta;
+

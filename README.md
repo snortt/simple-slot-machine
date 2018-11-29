@@ -1,2 +1,1 @@
-# simple-slot-machine
-Simple Slot Machine
+Just run make and then execute the slotmachine binary. Have fun! =)
